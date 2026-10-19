@@ -1,0 +1,6 @@
+{
+  "name": "Sorria+ | Clínica Odontológica & Estética Dental",
+  "description": "Odontologia estética de alta precisão, planejamento digital 3D e reabilitação oral em um ambiente sofisticado. Seu melhor sorriso começa aqui.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
